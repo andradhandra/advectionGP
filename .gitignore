@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 .DS_Store
-/aod_data
-/wind_data
+aod_data/
+wind_data/
