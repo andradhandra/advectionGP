@@ -131,3 +131,4 @@ dmypy.json
 .DS_Store
 aod_data/
 wind_data/
+results/
